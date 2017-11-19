@@ -1,6 +1,8 @@
 # Bit**COAL**
 ![Bitcoal Logo](/bitcoal.png)
 ---
+Bitcoal is a cryptonote based coin with the same privacy, fungibility, and asic resistance features as other cryptonote based coins.
+
 Bitcoal was made as a coin to stand as an economic kicker for day to day people without high demand skills in the market nowadays, nor the proper equipment to mine high value coins like Bitcoin, Ethereum, Litecoin and the like.
 
 We provide a new opportunity, if not a new way, for miner beginners and the working class to mine and trade coins.
@@ -12,8 +14,11 @@ We provide a new opportunity, if not a new way, for miner beginners and the work
 * Block Timing: 90 Seconds (1:30 min)
 
 ## Usage
-Bitcoal is based on [forknote](https://github.com/forknote/forknote).
-Use this config file with forknote to use bitcoal:
+Bitcoal is a cryptonote-based coin compatible with [forknote](https://github.com/forknote/forknote).
+
+A standalone GUI wallet is available at https://github.com/bitcoal/bitcoalwallet.
+
+To use bitcoal with forknote, use this bitcoal config file:
 https://github.com/forknote/configs/blob/master/bitcoal.conf
 
 # Pools
